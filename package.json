@@ -1,0 +1,10 @@
+{
+  "name": "lifestylesection",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "k88hudson",
+  "license": "MIT"
+}

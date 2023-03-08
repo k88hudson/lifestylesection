@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    @font-face {
+      font-family: "nyt-cheltenham";
+      src: url("./assets/font.woff2") format("woff2");
+      font-style: normal;
+      font-weight: 300;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: "nyt-cheltenham";
+      src: url("./assets/font_bold_italic.woff2") format("woff2");
+      font-style: italic;
+      font-weight: 700;
+      font-display: swap;
+    }
+    .wrapper {
+      margin: 0 auto;
+      max-width: 1000px;
+    }
+    main {
+      display: flex;
+      margin-top: 20px;
+    }
+    h1 {
+      font-family: "nyt-cheltenham";
+      font-weight: 300;
+      padding: 15px 0;
+      border-bottom: 2px solid rgb(18, 18, 18);
+      margin: 0;
+    }
+    h1 strong {
+      font-weight: 700;
+      font-style: italic;
+    }
+    h1 strong::after {
+      content: "";
+      display: inline-block;
+      width: 1px;
+      height: 24px;
+      background-color: black;
+      margin: 0 5px 0 12px;
+    }
+    h3 {
+      font-family: "nyt-cheltenham";
+      font-weight: 300;
+      font-size: 24px;
+      margin: 10px 0;
+    }
+    .container {
+      text-align: center;
+      width: 390px;
+      padding: 0 15px;
+      border-right: 1px solid #dfdfdf;
+    }
+    .container:first-child {
+      padding-left: 0;
+    }
+    .container:last-child {
+      border-right: 0;
+      padding-right: 0;
+    }
+    img {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+      <h1><strong>Well</strong> Eat</h1>
+      <main id="main"></main>
+  </div>
+  <script>
+    function randomSample(list, n) {
+      const copy = [...list];
+      const chosen = [];
+      for (let i = 0; i < n; i++) {
+        chosen.push(copy.splice(Math.floor(Math.random() * copy.length), 1)[0])
+      }
+      return chosen;
+    }
+
+    function renderArticle({headline, lede, image_filename}) {
+      const $container = document.createElement("article");
+      $container.classList.add("container")
+      const $headline = document.createElement("h3");
+      const $lede = document.createElement("p");
+      const $img = document.createElement("img");
+      $headline.textContent = headline;
+      $lede.textContent = lede;
+      $img.setAttribute("src", "./output/img/" + image_filename);
+
+      $container.appendChild($img);
+      $container.appendChild($headline);
+      $container.appendChild($lede);
+
+      return $container;
+    }
+
+    async function getData() {
+      const { completions } = await (await fetch("./output/food_completions.json")).json();
+      const main = document.getElementById("main");
+
+      const randomItems = randomSample(completions, 3);
+      for (let i = 0; i < 3; i++) {
+        const item = randomItems[i];
+        const [ headline, lede ] = item.text;
+        const { image_filename } = item;
+        main.appendChild(renderArticle({headline, lede, image_filename}));
+      }
+    }
+    getData();
+  </script>
+</body>
+</html>
