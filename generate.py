@@ -13,8 +13,7 @@ health_prompts = [
     "is good for you and debunks myths about it",
     "is a health food, contrary to what we previously believed",
     "is worse for you than we once thought",
-    "is something you should avoid",
-    "is better raw than cooked"
+    "is something you should avoid"
 ]
 
 def health_prompt(food):
@@ -22,6 +21,8 @@ def health_prompt(food):
 how {food} {random.choice(health_prompts)}, not using those exact words.
 The headline and lede must be separated by a % character."""
 
+os.mkdir("output")
+os.mkdir("output/img")
 
 with open("foods.txt", "r") as foods_file, open("output/food_completions.json", "w") as file:
     foods = [f.strip() for f in foods_file.readlines()]
@@ -29,8 +30,6 @@ with open("foods.txt", "r") as foods_file, open("output/food_completions.json", 
     output = {}
     output["completions"] = []
     food_choices = random.sample(foods, 30)
-
-    os.mkdir("img")
 
     for i in range(30):
         food = food_choices[i]

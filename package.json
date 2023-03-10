@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "start": "npx serve"
+    "start": "npx serve",
+    "generate": "python3 generate.py"
   },
   "author": "k88hudson",
   "license": "MIT"
