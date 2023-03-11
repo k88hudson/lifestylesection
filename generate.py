@@ -11,9 +11,9 @@ health_prompts = [
     "is actually bad for you",
     "is surprisingly unhealthy",
     "is good for you and debunks myths about it",
-    "is a health food, contrary to what we previously believed",
-    "is worse for you than we once thought",
-    "is something you should avoid"
+    "is something you should consider eating",
+    "is something you should avoid",
+    "impacted people's health in a recent study",
 ]
 
 def health_prompt(food):
@@ -24,7 +24,7 @@ The headline and lede must be separated by a % character."""
 os.mkdir("output")
 os.mkdir("output/img")
 
-with open("foods.txt", "r") as foods_file, open("output/food_completions.json", "w") as file:
+with open("foods2.txt", "r") as foods_file, open("output/food_completions.json", "w") as file:
     foods = [f.strip() for f in foods_file.readlines()]
 
     output = {}

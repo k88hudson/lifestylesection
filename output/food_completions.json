@@ -1,274 +1,274 @@
 {
   "completions": [
     {
-      "prompt": "Write a headline and lede for a NYT article about how plant milk\nis actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow citrus is actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Plant Milk: The New Superfood",
-        "Recent findings have shown that plant milk is actually more beneficial to your health than previously thought. Those concerned with animal welfare, environmental consciousness, and vegetarianism have long swear by using plant milk as a replacement for cow milk; now, the science is proving they were right all along."
+        "Unveiling the Unfortunate Reality about Citrus Fruit",
+        "Formerly beloved treat may be more harmful than advantageous to health."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-8DsOxkG7YCOvEkO39kee0DfP.png?st=2023-03-07T23%3A04%3A35Z&se=2023-03-08T01%3A04%3A35Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A44%3A31Z&ske=2023-03-08T21%3A44%3A31Z&sks=b&skv=2021-08-06&sig=4cXCbxOeY9I2o4KuqSy%2BF6X3LcDc3a009k/wnVsPIQM%3D",
-      "image_filename": "plant milk_0.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-f1ZxEe0fq3HOwRDnUF3s61BR.png?st=2023-03-10T18%3A37%3A02Z&se=2023-03-10T20%3A37%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T23%3A19%3A53Z&ske=2023-03-10T23%3A19%3A53Z&sks=b&skv=2021-08-06&sig=nHqHdi1D0LD0EbPVKI%2B8eLsNFmpWC06Z8h18KEUpmd8%3D",
+      "image_filename": "citrus_0.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how strudel\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow cream is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Deceptive Dessert: Popular Strudel May Not Have the Nutrition You Assume It Has",
-        "Though popularly seen as a sweet, healthful treat, many types of strudel are surprisingly unhealthy. Loaded with sugar, fat, and processed flour, even homemade strudel can be unforeseen dietary danger."
+        "Benefits of Cream: A New Way to Enjoy the Rich Taste of Dairy",
+        "Cream, a dairy product often seen in coffee drinks and used to top desserts and savory dishes, is increasingly being used as an ingredient in meals. Rich in several key vitamins and minerals, cream adds flavor and nutrition to a variety of dishes. In doing so, it adds to delicious, diverse and nutritious meals."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-QqGrVy8WjbIS0GQyW8U7o7AO.png?st=2023-03-07T23%3A04%3A43Z&se=2023-03-08T01%3A04%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A44%3A11Z&ske=2023-03-08T21%3A44%3A11Z&sks=b&skv=2021-08-06&sig=nR20cCMugUJC6nnZo4cpIMXW%2B7dkju2t8Oo8AtyGVfM%3D",
-      "image_filename": "strudel_1.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-tlKKlDIM0lpiX9pUxmiAJQ2Q.png?st=2023-03-10T18%3A37%3A11Z&se=2023-03-10T20%3A37%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A32%3A58Z&ske=2023-03-11T14%3A32%3A58Z&sks=b&skv=2021-08-06&sig=xCBbnqjRfgZOfBzgldfTjbtvX2bw%2BBoq8nUjCHGa960%3D",
+      "image_filename": "cream_1.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how chewing gum\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow maple syrup is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Chewing Gum: Sweetened Treat, Surprising Threat",
-        "Gum is often seen as a sweet and relatively healthy snack, but recent studies have revealed a surprising truth \u2013 this seemingly harmless snack can actually be highly detrimental to your overall health."
+        "Maple Syrup: Not as Wholesome as You Thought",
+        "That stack of pancakes topped with gooey, sweet maple syrup may seem like a comforting and wholesome morning meal, but research shows that this seemingly-innocent condiment is far from a health food."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-tryPjtbZOwiz5IylcYqhK1sn.png?st=2023-03-07T23%3A04%3A50Z&se=2023-03-08T01%3A04%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A08Z&ske=2023-03-08T21%3A43%3A08Z&sks=b&skv=2021-08-06&sig=6ZNPEG9F4LB78WMxlHrktN9m7xfhRWlVjJiPbWzSR%2B8%3D",
-      "image_filename": "chewing gum_2.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-PWmspK3B3Cgi9V3oMDgysq8Y.png?st=2023-03-10T18%3A37%3A20Z&se=2023-03-10T20%3A37%3A20Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T16%3A03%3A00Z&ske=2023-03-11T16%3A03%3A00Z&sks=b&skv=2021-08-06&sig=E74he0B0G324XDKEglNkhOad0G8tcW1X%2BE6PEEVMAF4%3D",
+      "image_filename": "maple syrup_2.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how jackfruit\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow soy is something you should avoid, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Superfood Staple: How Jackfruit Could Be the Next Nutritional Powerhouse",
-        "Revered in many cultures throughout Southeast Asia, the jackfruit is one of the most nutritious fruits out there, offering a variety of potential health benefits. Though it has been overlooked in the past, recent studies have provided evidence of its numerous health advantages, suggesting that this unique fruit could become the new go-to superfood."
+        "The Dangerous Risks of Eating Soy: Why it May Not be the Health Food You Thought it Was",
+        "Though long touted as an incredibly healthy, nutrient-packed food, recent research has brought to light the potential harm of consuming soy \u2014 highlighting the need for caution before reaching for that soy-based snack."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-Y04ESd99UlK11n8yuUDXYUp0.png?st=2023-03-07T23%3A04%3A58Z&se=2023-03-08T01%3A04%3A58Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A29Z&ske=2023-03-08T21%3A42%3A29Z&sks=b&skv=2021-08-06&sig=f3LSXp4OGMycwIgeGpRQwN6fYBAjRwFs20dsRYFxMwY%3D",
-      "image_filename": "jackfruit_3.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-zcYg3oxeXtg797iAmo30WIw0.png?st=2023-03-10T18%3A37%3A28Z&se=2023-03-10T20%3A37%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A41%3A24Z&ske=2023-03-10T19%3A41%3A24Z&sks=b&skv=2021-08-06&sig=7O/9o8ptXqBObCD9bjHzuDWRUuuCEKH1JBMBug6TqKs%3D",
+      "image_filename": "soy_3.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how radish\nis actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow cornstarch is good for you and debunks myths about it, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Surprising Realities: Radish May Not Be as Healthy as Assumed",
-        "Despite popular belief surrounding the vegetable, research indicates that the consumption of radish could potentially be detrimental to one's health."
+        "Surprising Health Benefits of Cornstarch",
+        "Turns out, cornstarch has long been given an unfair reputation as an unhealthy snack food, when in fact it offers a plethora of health benefits that are worth exploring."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-Wiayuvk5AaQwqKhJ531ktalW.png?st=2023-03-07T23%3A05%3A06Z&se=2023-03-08T01%3A05%3A06Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A06Z&ske=2023-03-08T21%3A42%3A06Z&sks=b&skv=2021-08-06&sig=RgJIzXmtR6Zi6gcPSMnQOe4e5%2BqQCV4zLVJyPLH06/s%3D",
-      "image_filename": "radish_4.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-bcPJkSfFgVV5FR8bGh1f2QVg.png?st=2023-03-10T18%3A37%3A36Z&se=2023-03-10T20%3A37%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T17%3A53%3A36Z&ske=2023-03-11T17%3A53%3A36Z&sks=b&skv=2021-08-06&sig=Z8XM6LHJ%2B6gFdjhUmBiLSBZs8AZa/McefLVCICJY4h4%3D",
+      "image_filename": "cornstarch_4.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how carambola\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow pork is actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Unhealthiness of Carambola Revealed",
-        "Carambola, the star fruit beloved by many for its sweet, tart taste and unique shape, may not be quite the healthy treat it appears to be. New research has revealed that consuming this exotic fruit in large quantities can have detrimental effects on the body."
+        "Doctor's Orders: Skip the Bacon",
+        "Although culturally it is considered to be something of a \"miracle food,\" new research shows that eating bacon may carry more health risks than benefits."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-bLAdopgANIbWRiuZr3BbI1dd.png?st=2023-03-07T23%3A05%3A14Z&se=2023-03-08T01%3A05%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A31Z&ske=2023-03-08T21%3A42%3A31Z&sks=b&skv=2021-08-06&sig=whVuvCPAh8rzkRSqFMS/GCVinf56sMGEX1pQqMAQZnU%3D",
-      "image_filename": "carambola_5.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-11i9QXza88N9VPchagFmVdpw.png?st=2023-03-10T18%3A37%3A43Z&se=2023-03-10T20%3A37%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A33%3A02Z&ske=2023-03-11T14%3A33%3A02Z&sks=b&skv=2021-08-06&sig=7AaM3jKmnv7VQWdtdOe1nI4azyN%2Bv/K7OO5HGMXdLkY%3D",
+      "image_filename": "pork_5.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how dessert\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow pomegranate is actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Rewriting the Sweet Tooth: Re-Examining the Downfalls of Dessert",
-        "It may be time for a wake-up call for those with a sweet tooth \u2013 the old adage of \u201cmoderation in all things\u201d does not appear to apply when it comes to dessert. Recent research reveals that desserts can come with a wide range of long-term health detriments, far beyond the traditional warnings of obesity."
+        "Pomegranate: An Unfortunate Misconception?",
+        "Despite its reputation as a \"superfood,\" pomegranate may not be as beneficial to your health as you might think."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-Gt8aWJ8wBxRNv2crLGzBDM0O.png?st=2023-03-07T23%3A05%3A23Z&se=2023-03-08T01%3A05%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A28Z&ske=2023-03-08T21%3A42%3A28Z&sks=b&skv=2021-08-06&sig=tHrZA9jt2u362UulOAPCvq81RY%2BSJX9C6PqK2rX6jy0%3D",
-      "image_filename": "dessert_6.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-aN0wwMoTcwGRSomfuNSpX61E.png?st=2023-03-10T18%3A37%3A50Z&se=2023-03-10T20%3A37%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A41%3A49Z&ske=2023-03-10T19%3A41%3A49Z&sks=b&skv=2021-08-06&sig=EAyaYR06BBrPmclhdC4w80USH88l3A0UCCNYVw40TaA%3D",
+      "image_filename": "pomegranate_6.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how lotus\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow plums impacted people's health in a recent study, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Health Detriments of Eating Lotus",
-        "Many fans of the lotus root may be surprised to learn that this esteemed food has several health effects that should be considered before consuming."
+        "Plums Aid in Maintaining Good Health, Study Finds",
+        "Evidence Suggests Sweet Fruit Packs a Powerful Nutritional Punch \nA recent study has found that including plums in one's diet is a powerful way to maintain good health. Researchers looked at various diets across the world and found that those that included the sweet, juicy fruit tend to have notably lower rates of various health concerns, such as heart disease and type-2 diabetes."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-2OrcZ7E8lqilcePeMbDsPHiH.png?st=2023-03-07T23%3A05%3A30Z&se=2023-03-08T01%3A05%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A30Z&ske=2023-03-08T21%3A42%3A30Z&sks=b&skv=2021-08-06&sig=yleoPx442VKc/5CaY/YCUEbEka%2BL6Fn9UtWH1djs94Y%3D",
-      "image_filename": "lotus_7.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-LV8c1Dfw30yUBfyNR42OtBvL.png?st=2023-03-10T18%3A38%3A00Z&se=2023-03-10T20%3A38%3A00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T23%3A19%3A56Z&ske=2023-03-10T23%3A19%3A56Z&sks=b&skv=2021-08-06&sig=dFV7FK4or7G544EZcujF/v1QJSlihiOiZPN8R3G71R4%3D",
+      "image_filename": "plums_7.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how parmesan\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow hot pockets is actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Slice of Parmesan No Longer Considered Part of a Healthy Diet",
-        "The popular Italian cheese Parmesan has been a staple in family recipes for generations, but new research has now deemed the once beloved cheese as worse for our health than imagined."
+        "Reinventing the Hot Pocket: Surprising Health Benefits of a Convenience Food",
+        "Once known as a midnight snack for college students, Hot Pockets are earning a new reputation as a health-promoting snack. With new dietary additions and nutritious ingredients, experts are finding that Hot Pockets, prepared properly, may provide a variety of surprising health benefits."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-zPTeh5YkPaHn7HISVMfl3tCR.png?st=2023-03-07T23%3A05%3A37Z&se=2023-03-08T01%3A05%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A54Z&ske=2023-03-08T21%3A42%3A54Z&sks=b&skv=2021-08-06&sig=nomCzzHvnVzv9gtvhazAa2YtNRS%2Bk4i0TMwN5yxjnOc%3D",
-      "image_filename": "parmesan_8.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-ngVsYZpPRLh5np7RfwvBGlA7.png?st=2023-03-10T18%3A38%3A07Z&se=2023-03-10T20%3A38%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A39%3A10Z&ske=2023-03-11T14%3A39%3A10Z&sks=b&skv=2021-08-06&sig=FvNVMTKae2gS4Fx350KkC8G2g68kjiLFCEKLJWgTxaU%3D",
+      "image_filename": "hot pockets_8.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how puppies\nis actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow fat is good for you and debunks myths about it, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Shocking Evidence: Puppies May Not Always be a Source of Joy",
-        "Recent studies have uncovered a surprising truth about puppies - that in some cases, they may be more of a burden than a blessing. Researchers have posted the results of their data, concluding that for certain demographics, puppies may be linked with an increase in stress and negative emotions."
+        "Good Fats: Debunking Myths",
+        "New research shows that fat isn't always as bad as we've been led to believe, with researchers finding that it can offer positive health benefits that we've never even considered before."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-rsyZkOq996HtOC5ZtEVkoRT4.png?st=2023-03-07T23%3A05%3A46Z&se=2023-03-08T01%3A05%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A27Z&ske=2023-03-08T21%3A42%3A27Z&sks=b&skv=2021-08-06&sig=0SP3A2bMyStTTYUmsTGg4MLtY7wM5smXTLx9bGbU3Bc%3D",
-      "image_filename": "puppies_9.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-Mccm1cuxg4fHCyshOpj7KcHm.png?st=2023-03-10T18%3A38%3A15Z&se=2023-03-10T20%3A38%3A15Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A38%3A56Z&ske=2023-03-11T14%3A38%3A56Z&sks=b&skv=2021-08-06&sig=u/sWYgWgQibSKvcappYoSESkooB8UDcH6Sri1lHRX1o%3D",
+      "image_filename": "fat_9.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how poultry\nis actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow nuts is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Healthy Alternative to Beef: Poultry's Surprising Benefits",
-        "It's no secret that poultry has become increasingly popular among those looking for a more health-conscious alternative to beef. Yet few people may be aware of the surprising range of nutrition poultry can offer. From a huge range of vitamins and minerals to an impressive protein-to-calorie ratio, poultry is proving to be a far more attractive healthy option than was previously thought."
+        "Nuts for Nutrition: A Healthy Snack With a Variety of Benefits",
+        "It's no secret that nuts can be a healthy addition to any diet. They are packed with protein, fiber, and essential fatty acids, making them a great on-the-go snack. But aside from their nutritional benefits, there is also a wide range of other reasons why you should consider adding nuts to your diet."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-7fzubdnmMtzSBIbceNaPa7bo.png?st=2023-03-07T23%3A05%3A54Z&se=2023-03-08T01%3A05%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A23Z&ske=2023-03-08T21%3A42%3A23Z&sks=b&skv=2021-08-06&sig=ezucHFKoQLdDmsCeeGzJ64Tw%2BTlCVfQSSSvtweoxCgI%3D",
-      "image_filename": "poultry_10.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-qSYedc159sS7nTP26VkKBVLL.png?st=2023-03-10T18%3A38%3A24Z&se=2023-03-10T20%3A38%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A42%3A16Z&ske=2023-03-10T19%3A42%3A16Z&sks=b&skv=2021-08-06&sig=AQgCZ6Zuyjxn784u4fOvjYL3flK3UqJM6Y0MphumVPs%3D",
+      "image_filename": "nuts_10.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how passion-fruit\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow cabbage is something you should avoid, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Passion-Fruit Shows Its Healthful Side",
-        "Advocates of passion-fruit have long maintained its healthfulness, often emphasising its vitamin C, beta-carotene and fibre content, but now new research is highlighting more health benefits."
+        "Eat Your Greens, But Not Cabbage: An In-Depth Exploration Into the Dark Side of This Popular Vegetable",
+        "Despite its long-standing reputation as a nutritious part of the diet, recent research is finding that cabbage has numerous negative health effects and should be avoided."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-i7kmDmEY76Ov2bqCg555E4T8.png?st=2023-03-07T23%3A06%3A01Z&se=2023-03-08T01%3A06%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A16Z&ske=2023-03-08T21%3A42%3A16Z&sks=b&skv=2021-08-06&sig=2OFZNXazm5NeblVPBvkDrJVIfFJQ4VT6uRXspv0tddU%3D",
-      "image_filename": "passion-fruit_11.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-38sGD2cc9hPqjKghU9r56wM2.png?st=2023-03-10T18%3A38%3A31Z&se=2023-03-10T20%3A38%3A31Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T17%3A45%3A51Z&ske=2023-03-11T17%3A45%3A51Z&sks=b&skv=2021-08-06&sig=P9w8LMLs1YSNe9fNTB9TCCPG6D8zNa6/LLRxBjJAwvA%3D",
+      "image_filename": "cabbage_11.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how cornstarch\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow cherries is something you should avoid, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Cornstarch: A Reappraisal of an Old Staple",
-        "For far too long, cornstarch has been relegated to the realm of unhealthy starchy sides and desserts. However, recent research is proving that this beloved kitchen staple has a variety of benefits that make it an ideal health food."
+        "Spotlight on Cherries: Reason to Nix This Popular Fruit From Your Diet",
+        "Despite their sweet, juicy taste, cherries are a fruit best left avoided due to the risks they pose to health."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-p14sJ6JnK1KlKh2ZzPZoa443.png?st=2023-03-07T23%3A06%3A09Z&se=2023-03-08T01%3A06%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A44%3A11Z&ske=2023-03-08T21%3A44%3A11Z&sks=b&skv=2021-08-06&sig=V4RXdvQW0545WYdpcyx2DC6oMt32c36dvzZm1wDy3ro%3D",
-      "image_filename": "cornstarch_12.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-OLp02iVayIpWV9M6DF8bKIV1.png?st=2023-03-10T18%3A38%3A38Z&se=2023-03-10T20%3A38%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T21%3A43%3A48Z&ske=2023-03-10T21%3A43%3A48Z&sks=b&skv=2021-08-06&sig=0T2R%2BVytwbKU9AiI1jGJaMIZHgCJzGwdga8bqIEMHH4%3D",
+      "image_filename": "cherries_12.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how squab\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow poutine is actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Danger Lurks in a Delicious Meal: Squab May Be More Unhealthy than We Thought",
-        "Avid fans of squab, a delicacy of roasted young pigeon, may have to reconsider their taste for the dish. Recent findings suggest that the previously considered \"healthy\" meal may actually be less healthy than believed."
+        "Surprising Health Benefits of Poutine Revealed",
+        "Craving poutine no longer has to make you feel guilty! A staple of fast food fare in Canada, it turns out that poutine may have more benefits than one would expect."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-jtkxdlnOZqZF52ARa5rwQYrX.png?st=2023-03-07T23%3A06%3A17Z&se=2023-03-08T01%3A06%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A38Z&ske=2023-03-08T21%3A42%3A38Z&sks=b&skv=2021-08-06&sig=%2BGi%2BpUszDMkdjXRMbztVi9lMV2VFrIlB2wfo4uaWrYo%3D",
-      "image_filename": "squab_13.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-LlgUUPesyESujygxvpGOPOoF.png?st=2023-03-10T18%3A38%3A45Z&se=2023-03-10T20%3A38%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T17%3A54%3A24Z&ske=2023-03-11T17%3A54%3A24Z&sks=b&skv=2021-08-06&sig=pTXe2UAAuHbzQbsET38Nelbh/ScqS7Sv44JB%2B/Fszqo%3D",
+      "image_filename": "poutine_13.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how pepper\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow veal is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Hot Spice Alert: Negative Effects of Pepper Revealed",
-        "When it comes to our health, the spice that we all love to add to our meals may not be as beneficial as we had thought. Recent studies have revealed that pepper, or rather its active compound capsaicin, could have a negative impact on our bodies."
+        "Veal: A Delicious and Nutritious Addition to Your Diet",
+        "Knowing how to cook it correctly can help you gain all its nutritional benefits. Though often eschewed by some, veal can be a delicious and nutritious addition to one's diet."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-WyDZ0wmVqCaYdK1oYZ8jNxg2.png?st=2023-03-07T23%3A06%3A24Z&se=2023-03-08T01%3A06%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A23Z&ske=2023-03-08T21%3A43%3A23Z&sks=b&skv=2021-08-06&sig=mZvagP0MyNP3cTp2QA1v53BXPZ08WcoCJAfEx/Pflf4%3D",
-      "image_filename": "pepper_14.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-6EyPH7r0pSlF4WCuTAhyTJnT.png?st=2023-03-10T18%3A38%3A53Z&se=2023-03-10T20%3A38%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T21%3A48%3A33Z&ske=2023-03-10T21%3A48%3A33Z&sks=b&skv=2021-08-06&sig=sCkdeKUYVMBtP2bW3n611IFv5ZNgPXTl/eXuuovRIjg%3D",
+      "image_filename": "veal_14.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how avocados\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow organic vegetables is good for you and debunks myths about it, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Avocados' Health Claim Debunked",
-        "A recently conducted study has found the much beloved fruit may not be as healthy as people think."
+        "Eating Organic: Common Misconceptions Dispelled",
+        "Organic food has long been considered a healthier alternative to many traditionally-grown foods, but beyond slightly reducing levels of exposure to pesticides, some of the purported benefits associated with organic food remain unclear. However, recent studies have appeared to support the notion that organic produce can confer meaningful health advantages to those who eat it."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-epBVnFtXMFcYCqmxgOmQJjLZ.png?st=2023-03-07T23%3A06%3A31Z&se=2023-03-08T01%3A06%3A31Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A15Z&ske=2023-03-08T21%3A43%3A15Z&sks=b&skv=2021-08-06&sig=kYnNCnqapIM9F8nOGkJXf0V/v0H%2B%2BqpaQ1AFbt1miRM%3D",
-      "image_filename": "avocados_15.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-QtcO1DUCXGopVEF0QR6QWOdL.png?st=2023-03-10T18%3A39%3A02Z&se=2023-03-10T20%3A39%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T15%3A47%3A42Z&ske=2023-03-11T15%3A47%3A42Z&sks=b&skv=2021-08-06&sig=U2j2K4t9pu25BhHI9L1jOz2rjwSnSNcAy3uHDqS5U2M%3D",
+      "image_filename": "organic vegetables_15.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how pastry\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow raspberries is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Pastry: Healthier Than We Thought?",
-        "For years, pastry has been thought of as an indulgent, high-fat snack. But, according to recent studies, the traditional treat might be healthier than one would initially assume."
+        "Surprising Health Risks of Raspberries",
+        "Despite its reputation as a healthful snack, raspberries have a few hidden dangers that have the potential to negatively impact the health of consumers."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-aaWenIJPeYb7H4VP6Aiaqku1.png?st=2023-03-07T23%3A06%3A38Z&se=2023-03-08T01%3A06%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A29Z&ske=2023-03-08T21%3A43%3A29Z&sks=b&skv=2021-08-06&sig=vmwXON%2BqNk6NTAnoDKXK%2Bzfamk/Tf1nhmh2xagmMJ6g%3D",
-      "image_filename": "pastry_16.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-zHGKd6Y9X1rdzZNEdgoZVEjv.png?st=2023-03-10T18%3A39%3A09Z&se=2023-03-10T20%3A39%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T15%3A48%3A26Z&ske=2023-03-11T15%3A48%3A26Z&sks=b&skv=2021-08-06&sig=IDdKsFa3JV8lctsYREKV17ZVoaMGZK5lv0RGedQuxh8%3D",
+      "image_filename": "raspberries_16.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how roots\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow seaweed is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Root Vegetables No Longer a Healthy Choice",
-        "Consuming vegetables from the root family may no longer be the best choice for a nutritious diet, as evidence suggests they are unexpectedly high in sugar."
+        "Sea of Abundance: Unlocking the Nutritional Benefits of Seaweed",
+        "With the growing interest in health and nutrition, many Americans are increasing the variety of foods in their diet. A natural yet often overlooked source of nutrients is seaweed, a type of marine algae that offers numerous health benefits. Seaweed is a good source of protein, fiber, and essential vitamins and minerals. Its unique flavor also adds a unique and delicious kick to many dishes."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-7Gg1bYpOdF63A0ZxieOGQzAX.png?st=2023-03-07T23%3A06%3A45Z&se=2023-03-08T01%3A06%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A39Z&ske=2023-03-08T21%3A43%3A39Z&sks=b&skv=2021-08-06&sig=x0MFVAiEiZY6Mj%2Bp/3tzCo2eYYn2PW8tFff0Zu0q2jA%3D",
-      "image_filename": "roots_17.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-0l0AU3Er1FU2F22p2NvD9Y6N.png?st=2023-03-10T18%3A39%3A18Z&se=2023-03-10T20%3A39%3A18Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T03%3A35%3A18Z&ske=2023-03-11T03%3A35%3A18Z&sks=b&skv=2021-08-06&sig=2DBQYVWFHNQvqpzfvecOuKNzG2%2BDHM7NdaS/TpDk7Fc%3D",
+      "image_filename": "seaweed_17.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how hyacinth\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow pumpkin seeds is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Health Benefits of Hyacinth Unexpectedly Revealed",
-        "Once thought of as simply a pungent ornamental bloom, the fragrant hyacinth has been found to possess a range of surprising and beneficial health properties."
+        "Surprising Unhealthiness of Pumpkin Seeds Revealed",
+        "Surprising evidence has recently emerged that eating pumpkin seeds may have a negative impact on health, overturning the widely-held belief that they are a health food."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-pOqiJb7k0ijABkavcKFrUIzh.png?st=2023-03-07T23%3A06%3A52Z&se=2023-03-08T01%3A06%3A52Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A44%3A28Z&ske=2023-03-08T21%3A44%3A28Z&sks=b&skv=2021-08-06&sig=9Krux%2BqlCX/2146epRk2JYdglszhf4CZ4Ay%2Bw8BoZbA%3D",
-      "image_filename": "hyacinth_18.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-2PkcBfGvfimNnsMwBKFc14m0.png?st=2023-03-10T18%3A39%3A27Z&se=2023-03-10T20%3A39%3A27Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A40%3A00Z&ske=2023-03-10T19%3A40%3A00Z&sks=b&skv=2021-08-06&sig=b539sVWlmsPo8R2AbbxGaZMLTxJ3AVHKnWyMiLVdUCI%3D",
+      "image_filename": "pumpkin seeds_18.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how pitanga\nis actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow edamame is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Surprising Health Benefits of the Pitanga Fruit",
-        "The humble pitanga fruit, commonly found in Brazil and other South American countries, has been found to provide a wealth of health benefits, from aiding digestion to boosting immunity."
+        "Introducing Edamame: Your New Go-to Superfood",
+        "Edamame isn't just a delicious snack at Japanese restaurants anymore. It's quickly becoming a must-have ingredient in diets around the world as people become increasingly aware of its benefits. Edamame is one of the best plant-based superfoods you can add to your diet and, luckily for us, it's also incredibly delicious."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-CfA2wHnjmcophqeEqFLQY8Bp.png?st=2023-03-07T23%3A06%3A59Z&se=2023-03-08T01%3A06%3A59Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A14Z&ske=2023-03-08T21%3A43%3A14Z&sks=b&skv=2021-08-06&sig=Mb6ecMHPrKC53iVqBIuEZdDT0H5jy1c9DQ5ykffxh8k%3D",
-      "image_filename": "pitanga_19.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-5YAFvQsQtIUAXS1gnJb6lLGT.png?st=2023-03-10T18%3A39%3A37Z&se=2023-03-10T20%3A39%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A56%3A01Z&ske=2023-03-11T14%3A56%3A01Z&sks=b&skv=2021-08-06&sig=BU6uYj8O5qI7MlIh5CqRsEU1nlGE8QE%2BTRDYGFFdqlg%3D",
+      "image_filename": "edamame_19.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how emu\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow limes is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Unprecedented Studies Find Health Risks from Eating Emu",
-        "Studies published in the International Journal of Environmental Research and Public Health have found that eating emu meat may be associated with far greater health risks than were previously thought."
+        "Add a Little Lime to Your Plate: Health Benefits of this Sour Superfood",
+        "Lime might not be the most exciting fruit on the shelf, but don't be too quick to discount this sour superfood. Packed with essential nutrients and flavor, limes might be the perfect addition to your plate. Not only do these tangy treats offer plenty of health benefits, but they also boast a wide range of culinary possibilities. So next time you walk by the produce aisle, pick up"
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-A5tt9WhNrNE8aSYV58mF91ZP.png?st=2023-03-07T23%3A07%3A08Z&se=2023-03-08T01%3A07%3A08Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A25Z&ske=2023-03-08T21%3A43%3A25Z&sks=b&skv=2021-08-06&sig=opBjYsRRtXH8WQNrDrDYz8shzM5w33OK/D5QeFMsgRA%3D",
-      "image_filename": "emu_20.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-NbMhyjOVRmq2Vs0fwLL98IgF.png?st=2023-03-10T18%3A39%3A47Z&se=2023-03-10T20%3A39%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A40%3A18Z&ske=2023-03-10T19%3A40%3A18Z&sks=b&skv=2021-08-06&sig=SZ%2BGIYQysnx2skgw9D3%2BG32SDq0Nte9AWluVIyRPalU%3D",
+      "image_filename": "limes_20.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how rolls\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow rice is actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Rolls is a Rolls-Royce of Nutrition: Surprising Health Benefits of a Common Carbs",
-        "Rolls are often seen as an unhealthy comfort food, but the truth is, they offer an abundance of nutrition that can help improve overall health and well-being. Surprisingly enough, rolls contain many vitamins and minerals that make them low in saturated fats and cholesterol and a good source of energy."
+        "Surprising Nutritional Benefits of Rice Revealed",
+        "Contrary to popular belief, a recent study shows that eating rice can lead to health benefits for daily consumers. The study, conducted by researchers at the University of California, Los Angeles, reveals that contrary to what most people believe, rice is not just a neutral staple food, but it can be a powerful tool for better nutrition."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-ocDbytxRYLBxUdbwCiePXCwP.png?st=2023-03-07T23%3A07%3A16Z&se=2023-03-08T01%3A07%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A44%3A10Z&ske=2023-03-08T21%3A44%3A10Z&sks=b&skv=2021-08-06&sig=ZqFymm1g%2B06xjYcDOfbIuDQ%2BsBBlG13C7Nh1uqQQ/%2Bc%3D",
-      "image_filename": "rolls_21.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-D1GQra9E0Ke0NrqvE3E1mFsU.png?st=2023-03-10T18%3A39%3A55Z&se=2023-03-10T20%3A39%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A31%3A05Z&ske=2023-03-11T14%3A31%3A05Z&sks=b&skv=2021-08-06&sig=bPd95pwLUqBTvferSpvlsgep3dWs7xTpCLKNxUL7iLM%3D",
+      "image_filename": "rice_21.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how food\nis actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow carbs impacted people's health in a recent study, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Eating: A Deeper Look Into the Link Between Good Nutrition and Health",
-        "Nutrition has always played an important role in overall health, but recent research is showing that it can be beneficial for far more than just maintaining weight. From improved cognitive ability to better cardiovascular health and even a possible increased life expectancy, the scientific evidence places a strong emphasis on the connection between eating well and the rewards that it can bring."
+        "Unveiling Glycemic Impact: Study Shows Increase in Certain Carbohydrates May Produce Negative Health Effects",
+        "A groundbreaking research study recently released suggests that increased consumption of certain carbohydrates can lead to negative impacts on overall health. Scientists focused on measuring the glycemic index of different carbohydrate-rich foods, and discovered that those classified as high-glycemic-index (GI) were associated with an increase in risks from varied diseases and health conditions."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-cM8sIPbJZ3wPl9fEeNwRKK6b.png?st=2023-03-07T23%3A07%3A26Z&se=2023-03-08T01%3A07%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A15Z&ske=2023-03-08T21%3A42%3A15Z&sks=b&skv=2021-08-06&sig=n%2BsPZXuRgOfDpPB0uTsorBbyHZ86ZkZZxuzKpmmHpxY%3D",
-      "image_filename": "food_22.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-lxmrRtxx7qnhnebWcuoQkwLo.png?st=2023-03-10T18%3A40%3A04Z&se=2023-03-10T20%3A40%3A04Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A29%3A17Z&ske=2023-03-11T14%3A29%3A17Z&sks=b&skv=2021-08-06&sig=FQG2ekOV5Fu4Uu49dsM1D9ailnWV8SJiCdLbMqnjQec%3D",
+      "image_filename": "carbs_22.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how citrus\nis is worse for you than we once thought, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow pepper (spice) is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "The Sour Side of Citrus: Health Consequences of Citrus Consumption",
-        "For years, citrus fruits were widely known to be muscle builders and sources of crucial vitamin C. But recent scientific evidence has shown that certain side effects associated with regular citrus consumption could put one's health at risk."
+        "Spicing Up Your Diet: The Benefits of Adding Pepper to Your Meals",
+        "Adding a pinch of pepper to your meal may sound like a small task, but its impact on your health is anything but insignificant. Recent studies have shown that adding pepper to your diet can have profound positive effects on both your physical and mental wellbeing."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-2zhOk0bg0d6BIQacvrAkbakE.png?st=2023-03-07T23%3A07%3A36Z&se=2023-03-08T01%3A07%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A41Z&ske=2023-03-08T21%3A43%3A41Z&sks=b&skv=2021-08-06&sig=5XIc7J0rxyinmYZE1Sl6ndrHwHl7xiQ6IZ6bFeBkhwI%3D",
-      "image_filename": "citrus_23.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-HfGZmR7nXEZRjRBVbi9r8mBf.png?st=2023-03-10T18%3A40%3A12Z&se=2023-03-10T20%3A40%3A12Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A42%3A02Z&ske=2023-03-11T14%3A42%3A02Z&sks=b&skv=2021-08-06&sig=pdZUC9m7j3Ajk8dA1zWZMvPxkQn58ozLjzEJ5n0hadM%3D",
+      "image_filename": "pepper (spice)_23.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how maraschino cherries\nis is a health food, contrary to what we previously believed, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow grapes impacted people's health in a recent study, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Revelation: Maraschino Cherries Are a Health Food!",
-        "Long deemed a diet destroyer because of their ultra-sweet flavor, maraschino cherries have long been looked down upon by health food aficionados. However, new research has identified a multitude of individual health benefits they possess and made the case that they are an important component of a nutritious diet after all."
+        "Grapes Provide Surprisingly Powerful Health Benefits: Study",
+        "A recent study has found that grapes may have a much stronger influence on health than previously known. Researchers have identified a multitude of health benefits related to consuming grapes, ranging from reducing inflammation to improving heart health."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-FpX7Bo2VB8ONUiwQAzyMq3tV.png?st=2023-03-07T23%3A07%3A44Z&se=2023-03-08T01%3A07%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A38Z&ske=2023-03-08T21%3A42%3A38Z&sks=b&skv=2021-08-06&sig=8b4qeFeUjLvbOfnxhKMQQugH7JH9bYv1M9uXrrr6qZc%3D",
-      "image_filename": "maraschino cherries_24.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-RqEQs6IVgdvOQryT2ozlEfI1.png?st=2023-03-10T18%3A40%3A19Z&se=2023-03-10T20%3A40%3A19Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T21%3A44%3A56Z&ske=2023-03-10T21%3A44%3A56Z&sks=b&skv=2021-08-06&sig=bSjloPvmo6S06hkGjfrPAQE%2BwOvG35eY%2BYE564UhJVQ%3D",
+      "image_filename": "grapes_24.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how juice\nis actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow beef is actually good for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Dismantling the Myth: Reevaluating the Benefits of Juice",
-        "A seemingly endless stream of research has long suggested that consuming juices is detrimental to health, causing weight gain and heart disease. It is time to reconsider these longstanding assumptions and embrace the emerging evidence of the positive benefits associated with drinking juice."
+        "Surprising Health Benefits of Eating Beef: Your Daily Protein Source is a dietary staple",
+        "For decades, beef has been unfairly vilified as a dietary villain. But new research shows that beef is, in fact, an important component of a healthy, balanced diet - and it may even be beneficial to some."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-E2sfJQ2ij6gfQwMFaUptDIlP.png?st=2023-03-07T23%3A07%3A51Z&se=2023-03-08T01%3A07%3A51Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A43Z&ske=2023-03-08T21%3A42%3A43Z&sks=b&skv=2021-08-06&sig=npGD2zlWy0r7SaOqXmonG0fsZP2HjKOXNMBCnTRdtnc%3D",
-      "image_filename": "juice_25.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-KS8P4YFQeRPfa2n1PTe6OY8L.png?st=2023-03-10T18%3A40%3A26Z&se=2023-03-10T20%3A40%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T17%3A53%3A55Z&ske=2023-03-11T17%3A53%3A55Z&sks=b&skv=2021-08-06&sig=k7AX3bb%2BGCKim6N4vTjv9f3AGor2Pkufe6ZYvGwoGq4%3D",
+      "image_filename": "beef_25.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how arrowroot\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow walnuts is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Arrowroot's Dark Side: Not So Healthy After All?",
-        "Experiencing a surge in popularity for its purported health benefits, arrowroot is being revealed as a somewhat less-than-healthy food choice."
+        "A Surprisingly Nutritious Superfood: Walnuts",
+        "Adding walnuts to your diet can provide many health benefits, as well as a delicious crunch."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-OI4O40YEMjaQ2d0rcjc29l4m.png?st=2023-03-07T23%3A07%3A58Z&se=2023-03-08T01%3A07%3A58Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A43%3A51Z&ske=2023-03-08T21%3A43%3A51Z&sks=b&skv=2021-08-06&sig=iA/pHzoYPHDrvQpAlTWTWMJ57bOAlgbwtP9r7PSjSfU%3D",
-      "image_filename": "arrowroot_26.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-6RGSOcu4HR6nAb4BOw0bDXi0.png?st=2023-03-10T18%3A40%3A33Z&se=2023-03-10T20%3A40%3A33Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A41%3A01Z&ske=2023-03-10T19%3A41%3A01Z&sks=b&skv=2021-08-06&sig=gWYUjmgW3nUaWttG3jgMRLhlIYE76al2U29ccfgkhzM%3D",
+      "image_filename": "walnuts_26.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how venison\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow melon is something you should consider eating, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Deer Meat May Put Your Health at Risk",
-        "Despite its reputation as a healthy cut of meat, venison can contain high levels of fat that can lead to an increased risk of health complications. Studies have found that processed venison contains more fat and sodium than even pork and beef. High fat levels have been linked to elevated cholesterol, heart disease, and stroke."
+        "Healthy and Delicious: Enjoying the Benefits of Eating Melon",
+        "Incorporating melon into one's diet has numerous advantages, both for physical and mental health. The sweet, juicy fruit is packed with essential vitamins and minerals that provide essential nutrients, while also offering much-needed hydration. It's also a tasty way to get an antioxidant, anti-inflammatory and digestive health boost. As an added bonus, melon comes in a variety of shapes, colors, and"
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-HDBKC0CYOUFWlavEcBKZP4ij.png?st=2023-03-07T23%3A08%3A07Z&se=2023-03-08T01%3A08%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A45%3A47Z&ske=2023-03-08T21%3A45%3A47Z&sks=b&skv=2021-08-06&sig=UIlTSqFIaRJGl/%2BA9eXIUjzUw12OvPeSwutyTZrjfcU%3D",
-      "image_filename": "venison_27.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-TS0qerg0xOi8E96OM1CuIF7k.png?st=2023-03-10T18%3A40%3A41Z&se=2023-03-10T20%3A40%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-09T19%3A41%3A14Z&ske=2023-03-10T19%3A41%3A14Z&sks=b&skv=2021-08-06&sig=Tb28Ty/YNheJXqpikOh36GJFMa0YVTEdwKJQhROY94U%3D",
+      "image_filename": "melon_27.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how dairy\nis actually bad for you, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow plant-based meat is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Unveiling the Dairy Dilemma: Uncovering Unfavorable Facts about Food Group",
-        "For years, milk and milk products have been a dietary staple for many people around the world. But, with recent evidence indicating detrimental health effects associated with this food group, consumers are being forced to reevaluate milk and dairy products as part of their diets."
+        "Plant-Based Meats: Healthier Substitute or Health Risk?",
+        "Plant-based meats, marketed as a healthier alternative to many traditional meats, have come under scrutiny for their potentially harmful health consequences for consumers."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-tWpvbXivmGwNI2Qo3vUojmTj.png?st=2023-03-07T23%3A08%3A15Z&se=2023-03-08T01%3A08%3A15Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A09Z&ske=2023-03-08T21%3A42%3A09Z&sks=b&skv=2021-08-06&sig=chsRvDfctVluFNANsbunJa0hvoMsJAek82zow5R4xsE%3D",
-      "image_filename": "dairy_28.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-U0ibFsRfRLYfXq8Zc55lK8Zx.png?st=2023-03-10T18%3A40%3A49Z&se=2023-03-10T20%3A40%3A49Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A32%3A58Z&ske=2023-03-11T14%3A32%3A58Z&sks=b&skv=2021-08-06&sig=wbasLIQDx4MNhRPU53mitLrljwrd9H4G5OgH7qDRgRc%3D",
+      "image_filename": "plant-based meat_28.png"
     },
     {
-      "prompt": "Write a headline and lede for a NYT article about how spinach\nis is surprisingly unhealthy, not using those exact words.\nThe headline and lede must be separated by a % character.",
+      "prompt": "Write a headline and lede for a NYT article about\nhow mushrooms is something you should avoid, not using those exact words.\nThe headline and lede must be separated by a % character.",
       "text": [
-        "Popular Leafy Green Found to Be High in Unhealthy Substances: Study",
-        "Long hailed as a healthy food choice, spinach has recently been revealed to contain high amounts of unhealthy substances such as sodium, leading to revised conclusions about the health benefits of this popular greens."
+        "The Perils of Mushroom Consumption: Uncovering the Mycological Dangers",
+        "Though mushrooms might look like harmless fungi, there is ample evidence to caution against consuming the deceptively complex organisms. In recent years, the mushroom-cycles have been linked to myriad adverse health effects. Despite the rising awareness of potential toxicity, some still consider mushrooms a nutritious and delicious dietary addition."
       ],
-      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-7YMDAa0XoUOUdrwaw6eu4Nxo.png?st=2023-03-07T23%3A08%3A23Z&se=2023-03-08T01%3A08%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-07T21%3A42%3A07Z&ske=2023-03-08T21%3A42%3A07Z&sks=b&skv=2021-08-06&sig=Slklh3Io78UJlWD74gpJdPMgEU%2BGbIpqpy%2BTRHJg0OQ%3D",
-      "image_filename": "spinach_29.png"
+      "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-LVEYWDKDjLNQTxSOtT4vb742/user-rIF5poBmqKHFqpJgr720BVDv/img-1QDp6N2low1PkfzfMz74a1k6.png?st=2023-03-10T18%3A40%3A57Z&se=2023-03-10T20%3A40%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-10T14%3A57%3A57Z&ske=2023-03-11T14%3A57%3A57Z&sks=b&skv=2021-08-06&sig=DReDPXFhmTIH18%2B7DBsATFbaNSrOgU/3YVveof8hIoY%3D",
+      "image_filename": "mushrooms_29.png"
     }
   ]
 }
