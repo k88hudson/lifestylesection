@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
   <title>Eat - Lifestyle Section</title>
   <style>
     @font-face {
@@ -20,17 +21,50 @@
       font-weight: 700;
       font-display: swap;
     }
+    body {
+      font-family: "Playfair Display";
+      font-size: 16px;
+    }
     .wrapper {
       margin: 0 auto;
       max-width: 1200px;
     }
-    .col {
-      padding: 0 15px;
-      width: 240px;
-      border-right: 1px solid #dfdfdf;
+    main .col:first-child article,
+    main .col:nth-child(2) article {
+      display: flex;
+      padding-bottom: 15px;
+    }
+    main .col:first-child article .text-container,
+    main .col:nth-child(2) article .text-container {
+      padding-left: 15px;
+    }
+    @media (min-width: 765px) {
+      main .col:first-child article,
+      main .col:nth-child(2) article {
+        display: block;
+      }
+      main, footer {
+        display: flex;
+      }
+       .col {
+        padding: 0 15px;
+        width: 240px;
+        border-right: 1px solid #dfdfdf;
+      }
+      main .col:first-child {
+        width: 540px;
+        padding-left: 0;
+      }
+      /* main .col:first-child img {
+        height: 400px;
+        object-fit: cover;
+        object-position: center;
+      } */
+      main .col:nth-child(2) {
+        width: 337px;
+      }
     }
     main, footer {
-      display: flex;
       margin-top: 20px;
     }
     footer {
@@ -38,18 +72,10 @@
       padding-top: 30px;
       margin-top: 30px;
     }
-    main .col:first-child {
-      width: 540px;
-      padding-left: 0;
-    }
-    main .col:first-child img {
-      height: 450px;
-      object-fit: cover;
-      object-position: center;
-    }
-    main .col:nth-child(2) {
-      width: 337px;
-    }
+    footer p {
+      display: none;
+    } 
+
     main .col:last-child img {
       width: 75px;
       float: right;
@@ -60,7 +86,7 @@
       padding-top: 15px;
     }
     h1 {
-      font-family: "nyt-cheltenham";
+      /* font-family: "nyt-cheltenham"; */
       font-weight: 300;
       padding: 15px 0;
       border-bottom: 2px solid rgb(18, 18, 18);
@@ -79,7 +105,7 @@
       margin: 0 5px 0 12px;
     }
     h3 {
-      font-family: "nyt-cheltenham";
+      /* font-family: "nyt-cheltenham"; */
       font-weight: 300;
       font-size: 24px;
       margin: 10px 0;
@@ -87,9 +113,17 @@
     footer h3 {
       font-size: 18px;
     }
-    img {
-      width: 100%;
 
+    img {
+      width: 200px;
+    }
+    @media (min-width: 765px) {
+      img {
+        width: 100%;
+      }
+    }
+    p {
+      line-height: 1.375;
     }
   </style>
 </head>
@@ -109,6 +143,21 @@
         </div>
       </main>
       <footer>
+         <div class="col">
+          <article></article>
+        </div>
+         <div class="col">
+          <article></article>
+        </div>
+         <div class="col">
+          <article></article>
+        </div>
+         <div class="col">
+          <article></article>
+        </div>
+         <div class="col">
+          <article></article>
+        </div>
       </footer>
   </div>
   <script src="authors.js"></script>
@@ -124,6 +173,8 @@
 
     function renderArticle($container, {headline, lede, image_filename}) {
       $container.classList.add("container")
+      const $textContainer = document.createElement("div");
+      $textContainer.classList.add("text-container");
       const $headline = document.createElement("h3");
       const $lede = document.createElement("p");
       const $img = document.createElement("img");
@@ -132,8 +183,9 @@
       $img.setAttribute("src", "./output/img/" + image_filename);
 
       $container.appendChild($img);
-      $container.appendChild($headline);
-      $container.appendChild($lede);
+      $textContainer.appendChild($headline);
+      $textContainer.appendChild($lede);
+      $container.appendChild($textContainer);
 
       return $container;
     }

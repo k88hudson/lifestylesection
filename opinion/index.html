@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eat - Lifestyle Section</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <style>
+    @font-face {
+      font-family: "nyt-cheltenham";
+      src: url("./assets/font.woff2") format("woff2");
+      font-style: normal;
+      font-weight: 300;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: "nyt-cheltenham";
+      src: url("./assets/font_bold_italic.woff2") format("woff2");
+      font-style: italic;
+      font-weight: 700;
+      font-display: swap;
+    }
+    body {
+      font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    }
+    .wrapper {
+      margin: 0 auto;
+      max-width: 600px;
+    }
+    header {
+      padding: 60px 0 15px;
+      text-align: center;
+      /* font-family: "nyt-cheltenham"; */
+    }
+    .pre-headline {
+      display: inline-block;
+      padding: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      border-bottom: 1px solid #efeef0;
+    }
+    .pre-headline p {
+      margin: 0 0 6px 0;
+    }
+    .pre-headline .section-title {
+      color: #cc0000;
+    }
+    h1 {
+      font-weight: 700;
+      font-size: 42px;
+      line-height: 1.2;
+    }
+    .dateline {
+      margin: 0;
+      font-size: 15px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    main {
+      font-size: 20px;
+      line-height: 1.5;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="wrapper">
+    <header>
+      <div class="pre-headline">
+        <p class="section-title">Opinion</p>
+        <p class="author">Fuzzy dunlop</p>
+      </div>
+      <h1 id="headline"></h1>
+      <p class="dateline">March 9, 2023</p>
+    </header>
+    <main id="article">
+    </main>
+  </div>
+  <script>
+     function randomSample(list, n) {
+      const copy = [...list];
+      const chosen = [];
+      for (let i = 0; i < n; i++) {
+        chosen.push(copy.splice(Math.floor(Math.random() * copy.length), 1)[0])
+      }
+      return chosen;
+    }
+
+    function renderArticle({headline, article}) {
+      const $headline = document.getElementById("headline")
+      const $article = document.getElementById("article");
+
+      $headline.textContent = headline;
+      article.split("\n").forEach(paragraph => {
+        const el = document.createElement("p")
+        el.textContent = paragraph;
+        $article.appendChild(el);
+      });
+    }
+
+    async function getData() {
+      const { completions } = await (await fetch("opinion/opinion.json")).json();
+      renderArticle(randomSample(completions, 1)[0]);
+    }
+    getData();
+  </script>
+</body>
+</html>

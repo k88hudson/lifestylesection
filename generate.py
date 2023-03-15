@@ -39,7 +39,7 @@ with open("foods2.txt", "r") as foods_file, open("output/food_completions.json",
             text = [item.strip() for item in completion.choices[0].text.split("%")]
 
             img_resp = openai.Image.create(
-                prompt=f"a brightly lit photograph of {food} for a health article",
+                prompt=f"product shot of {food}, photography, for a health article, single color background",
                 n=1,
                 size="512x512"
             )
